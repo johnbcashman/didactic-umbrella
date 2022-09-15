@@ -1,2 +1,3 @@
 # didactic-umbrella
-It was their idea and I like it: didactic-umbrella, yeah.
+It was github's suggestion and I like it: didactic-umbrella, yeah.
+This could be the beginning of the Africa project.
